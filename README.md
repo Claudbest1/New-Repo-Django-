@@ -1,1 +1,1 @@
-# New-Repo-Django-
+# Django-CRUD
